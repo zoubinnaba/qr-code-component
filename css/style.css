@@ -26,17 +26,19 @@ body {
 }
 
 .title {
+    text-align: center;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     font-size: 15px;
-    padding: 15px;
+    padding: 10px;
 }
 
 .caption {
+    text-align: center;
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
-    padding: 15px;
+    padding: 10px;
 }
 
 
